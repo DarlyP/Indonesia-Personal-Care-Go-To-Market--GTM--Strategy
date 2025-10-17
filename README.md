@@ -20,16 +20,11 @@
 
 ---
 
-## Special Thanks To
+## Tools & Credit
 
-### Tokopaedi — Scraper Tokopedia untuk Python
+[<img src="https://img.shields.io/badge/tokopaedi-Repository-24292e?style=for-the-badge&logo=github&logoColor=white" alt="tokopaedi repository" />](https://github.com/hilmiazizi/tokopaedi)
+[<img src="https://img.shields.io/badge/Author-Hilmi%20Azizi-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Author: Hilmi Azizi" />](https://github.com/hilmiazizi)
 
-[<img src="https://img.shields.io/badge/Tokopedia-42B549?style=for-the-badge&logo=tokopedia&logoColor=white" alt="Tokopedia" />](https://www.tokopedia.com/)
-[![PyPI](https://img.shields.io/pypi/v/tokopaedi?style=for-the-badge)](https://pypi.org/project/tokopaedi/)
-[![Python](https://img.shields.io/pypi/pyversions/tokopaedi?style=for-the-badge)](https://pypi.org/project/tokopaedi/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://github.com/hilmiazizi/tokopaedi/blob/main/LICENSE)
-
-**Tokopaedi** adalah library Python untuk mengekstrak data e-commerce Tokopedia: pencarian produk dengan filter, detail produk lengkap, hingga ulasan pelanggan. Dirancang agar hasil mudah diserialisasi (JSON/pandas) dan enak dipakai di Jupyter. :contentReference[oaicite:0]{index=0}
 
 ---
 
